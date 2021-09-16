@@ -14,9 +14,9 @@ if (dato2 >0){
 int main(void){
     int dato1,dato2;
 
-    cout<<"Ingrese el dato 1: ";
+    cout<<"Ingrese el primer numero entero a multiplicar: ";
     cin>>dato1;
-    cout<<"Ingrese el dato 2: ";
+    cout<<"Ingrese el segundo numero entero a multiplicar: ";
     cin>>dato2;
 
     cout<<dato1<<"x"<<dato2<<"=";
